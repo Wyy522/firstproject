@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/api/api.iml" filepath="$PROJECT_DIR$/simple_java_2/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/client/client.iml" filepath="$PROJECT_DIR$/simple_java_2/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/database/database.iml" filepath="$PROJECT_DIR$/simple_java_2/database/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/first-web/first-web.iml" filepath="$PROJECT_DIR$/simple_java_2/first-web/first-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/framework/framework.iml" filepath="$PROJECT_DIR$/simple_java_2/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/netty/netty.iml" filepath="$PROJECT_DIR$/simple_java_2/netty/netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/server/server.iml" filepath="$PROJECT_DIR$/simple_java_2/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/simple_java_2.iml" filepath="$PROJECT_DIR$/simple_java_2/simple_java_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simple_java_2-0606.iml" filepath="$PROJECT_DIR$/.idea/simple_java_2-0606.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/spring/spring.iml" filepath="$PROJECT_DIR$/simple_java_2/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/spring-mvc-test/spring-mvc-test.iml" filepath="$PROJECT_DIR$/simple_java_2/spring-mvc-test/spring-mvc-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple_java_2/spring-web/spring-web.iml" filepath="$PROJECT_DIR$/simple_java_2/spring-web/spring-web.iml" />
+    </modules>
+  </component>
+</project>
